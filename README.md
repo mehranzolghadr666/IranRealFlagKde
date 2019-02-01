@@ -16,4 +16,10 @@ $ chmod +x install.sh
 $ ./install.sh
 ```
 
-after a restart when you change the language to persian, you can see the real flag of iran in your panel.
+after a restart when you change keyboard language to persian, you can see the real flag of iran in your panel.
+
+Before:
+<div style="text-align:center"><img src ="./screenshots/Before.png" /></div>
+
+After:
+<div style="text-align:center"><img src ="./screenshots/After.png" /></div>
